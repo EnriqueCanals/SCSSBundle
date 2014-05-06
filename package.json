@@ -1,12 +1,11 @@
 {
   "name": "SCSSBundle",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "SCSS syntax package for Atom",
   "repository": "https://github.com/EnriqueCanals/SCSSBundle",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
