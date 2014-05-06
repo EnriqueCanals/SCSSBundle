@@ -1,8 +1,8 @@
 {
-  "name": "ScssBundle.atom",
+  "name": "SCSSBundle",
   "version": "0.0.1",
-  "description": "An SCSS syntax package for Atom",
-  "repository": "https://github.com/MarioRicalde/SCSS.tmbundle/tree/Atom",
+  "description": "SCSS syntax package for Atom",
+  "repository": "https://github.com/EnriqueCanals/SCSSBundle",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

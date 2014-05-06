@@ -1,3 +1,5 @@
+#### Temporary location of the Atom SCSS bundle for retrieval on the Atom Package Manager
+
 ![](http://i.imgur.com/mFFD1.png)
 ### For:
 ![](https://atom.io/assets/logo-579cbedf99b80be71b85354646fe9b78.png)
