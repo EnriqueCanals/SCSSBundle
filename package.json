@@ -1,5 +1,5 @@
 {
-  "name": "SCSSBundle",
+  "name": "ScssBundle",
   "version": "0.1.0",
   "description": "SCSS syntax package for Atom",
   "repository": "https://github.com/EnriqueCanals/SCSSBundle",
